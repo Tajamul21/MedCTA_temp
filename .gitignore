@@ -1,0 +1,27 @@
+# cache / python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# outputs / logs
+ci_inference_output/
+logs/
+*.log
+
+# large or private data
+
+datasets/
+figs/
+outputs/
+
+# env / secrets
+.env
+*.key
+*.pem
+
+# editor
+.vscode/
+.idea/
+opencompass/outputs/
+opencompass/data/
