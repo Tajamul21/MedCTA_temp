@@ -2,8 +2,6 @@
 
 This repository contains the code, configuration files, and evaluation instructions for **MedCTA**, a benchmark for evaluating medical tool agents on clinician-verified multimodal clinical tasks.
 
-> During anonymous review, all author-identifying information, institution-specific infrastructure, and non-anonymous release links are removed or replaced with placeholders.
-
 ---
 
 ## Prepare the MedCTA Dataset
